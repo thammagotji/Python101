@@ -18,3 +18,9 @@ Collection of codes from 'Python 101' class by UncleEngineer
 
 <h2> Python EP5 </h2>
 <li> Function, lists, dictionary </li>
+
+<h2> Python EP6 </h2>
+<li> Classes </li>
+
+<h2> Python EP7 </h2>
+<li> Pyautogui </li>
